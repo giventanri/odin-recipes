@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(0, 0%, 90%);
+}
+
+h1 {
+    font-weight: bold;
+    color:hsl(0, 50%, 13%);
+    text-align: center;
+}
+
+h2 {
+    color: hsl(0, 50%, 20%);
+}
+
+p, ol, ul {
+    color: hsl(0, 50%, 5%);
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
