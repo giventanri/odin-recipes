@@ -1,19 +1,20 @@
 body {
-    background-color: hsl(0, 0%, 90%);
+    background-color: hsl(0, 0%, 95%);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
     font-weight: bold;
-    color:hsl(0, 50%, 13%);
+    color:hsl(0, 50%, 20%);
     text-align: center;
 }
 
 h2 {
-    color: hsl(0, 50%, 20%);
+    color: hsl(0, 50%, 15%);
 }
 
 p, ol, ul {
-    color: hsl(0, 50%, 5%);
+    color: hsl(0, 50%, 8%);
 }
 
 img {
